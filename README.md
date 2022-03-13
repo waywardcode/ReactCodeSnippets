@@ -1,6 +1,10 @@
 # ReactCodeSnippets
 
-React Code Snippets for Visual Studio 2017 & 2019
+React Code Snippets for Visual Studio 2022  Community - Older versions for VS 2017 / 2019 available on the Marketplace
+* Have not requested a PR from the original developer - kickmeforpresident
+
+If you need this Extension for VS2022 - clone, build (Release) and use the the vsix file in ../bin/Release
+Changed version to 4.0 since, it will not work in older VS 2017 & 2019
 
 [<img src="https://vsmarketplacebadge.apphb.com/version/IstvanKocsis.ReactCodeSnippets.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.ReactCodeSnippets) [<img src="https://vsmarketplacebadge.apphb.com/downloads/IstvanKocsis.ReactCodeSnippets.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.ReactCodeSnippets) [<img src="https://vsmarketplacebadge.apphb.com/rating-star/IstvanKocsis.ReactCodeSnippets.svg" alt="Visual Studio Marketplace">](https://marketplace.visualstudio.com/items?itemName=IstvanKocsis.ReactCodeSnippets)
 
